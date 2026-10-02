@@ -1,0 +1,2 @@
+# premium-eda-sourcing-001-event-sourcing-design-guide-te
+You're drowning in event sourcing documentation scattered across Slack, Confluence, and half-finished design docs. The Event Sourcing Design Guide Template solves this by giving you a battle-tested Notion system that captures event flows, domain models, and architectural decisions in one searchable, collaborative space.  Stop reinventing the wheel
